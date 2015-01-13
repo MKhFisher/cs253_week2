@@ -1,1 +1,6 @@
 c:\users\michaelf\documents\visual studio 2013\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.exe.config
+C:\Users\MichaelF\Documents\Visual Studio 2013\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
+C:\Users\MichaelF\Documents\Visual Studio 2013\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.exe
+C:\Users\MichaelF\Documents\Visual Studio 2013\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.pdb
+C:\Users\MichaelF\Documents\Visual Studio 2013\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.exe
+C:\Users\MichaelF\Documents\Visual Studio 2013\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
